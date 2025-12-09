@@ -1,26 +1,2 @@
 # bertolino_sitemap
 the site map
-[sitemap.xml](https://github.com/user-attachments/files/24058879/sitemap.xml)
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://www.bertolinoantonio.it/</loc>
-    <lastmod>2025-12-09</lastmod>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.bertolinoantonio.it/chi-siamo</loc>
-    <lastmod>2025-11-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.bertolinoantonio.it/e-commerce</loc>
-    <lastmod>2025-11-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.bertolinoantonio.it/contatti</loc>
-    <lastmod>2025-12-09</lastmod>
-    <priority>0.7</priority>
-  </url>
-</urlset>
